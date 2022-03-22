@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shurdello
+- 👋 Hi, I’m Nikola Matijevic
 - 👀 I’m interested in gaining experience, learning and working
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on some projects
